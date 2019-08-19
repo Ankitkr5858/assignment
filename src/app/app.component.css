@@ -1,0 +1,22 @@
+.main-container{
+    padding: 85px;
+    background-color: tomato !important;
+    color:#ffeb3b
+}
+.drop-down-container{
+    position: relative;
+    bottom: 37px;
+    font-size: 22px;
+    color: #139cfd;
+}
+.search-container{
+    position: relative;
+    bottom: 56px;
+    left: 389px;
+    font-size: 22px;
+    color: #139cfd;
+}
+.table-header{
+    font-size: 22px;
+    color: darkslategray;
+}
